@@ -13,4 +13,4 @@ This exercise helps me with my career by potentially showing employers that I ha
 These elements tie into the importance of copyrighting, which is vital in workplace practices.  
 
 Open Source Workflow Understanding
-Creating my own repository (`hello-gist604b`) mirrors the open source contribution process. In real projects, developers fork existing repositories, make improvements, and submit contributions - similar to how I created this repository and linked it to the assignment system.
+Creating my own repository mirrors the open source contribution process. In real projects, developers fork existing repositories, make improvements, and submit contributions - similar to how I created this repository and linked it to the assignment system.
