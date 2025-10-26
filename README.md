@@ -3,6 +3,7 @@
 # Hello GIST 604B
 
 **Student:** Stephen Repa 
+**Date** 10/25/25
 **Course:** GIST 604B - Open Source GIS  
 **Assignment:** M1A3 - GitHub Repository Management  
 **University of Arizona**
@@ -31,9 +32,6 @@ To run the hello script:
 ```bash
 python scripts/hello.py
 
-
-
-**Date:** 10/25/25
 
 ## What I Learned
 In this assignment, I learned:
