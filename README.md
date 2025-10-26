@@ -33,23 +33,6 @@ python scripts/hello.py
 
 
 
-
-#### 3b. Create docs/learning-log.md
-Create a new file in the `docs/` folder:
-
-**How to create this file:**
-1. Click "Add file" → "Create new file"
-2. In the filename box, type: `docs/learning-log.md` (this creates the `docs/` folder and the file)
-3. Copy the template below into the file content area
-4. Fill in all bracketed sections with your own content
-5. Commit the file
-
-**Template for docs/learning-log.md:**
-
-```markdown
-# Learning Log - M1A3 GitHub Repository Management
-
-**Student:** Stephen Repa
 **Date:** 10/25/25
 
 ## What I Learned
