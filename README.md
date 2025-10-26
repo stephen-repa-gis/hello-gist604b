@@ -54,15 +54,17 @@ Create a new file in the `docs/` folder:
 
 ## What I Learned
 In this assignment, I learned:
-- [Describe 2-3 key things you learned about GitHub]
-- [How Issues help teams collaborate]
-- [Why documentation matters in open source projects]
+
+The main thing I learned is how to organize and know what is important to include in a Github repository.
+Each step of the assignment allowed me to see what makes a complete page.
 
 ## Challenges and Solutions
-[Describe 1-2 challenges you faced and how you overcame them. Examples: creating folders in GitHub, understanding the two-repository workflow, writing markdown]
+The two-repository workflow was a little confusing with the two being located in seperate profiles. Having the two open in seperate tabs
+allowed me to see them both at once and eliminate the risk of creating files and/or folders in the wrong repository.
 
 ## Connection to My GIS Career
-[Explain in 2-3 sentences how GitHub skills will help you in your GIS career. Think about portfolio building, collaboration, contributing to open source projects]
+This exercise helps me with my career by potentially showing employers that I have an understanding of how licensing and the inclusion of scripts work.
+These elements tie into the importance of copyrighting, which is vital in workplace practices.  
 
 ## Open Source Workflow Understanding
 Creating my own repository (`hello-gist604b`) mirrors the open source contribution process. In real projects, developers fork existing repositories, make improvements, and submit contributions - similar to how I created this repository and linked it to the assignment system.
